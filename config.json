@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenverify",
+        "uuid": 4156950,
+        "checksum": "ejzymo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
